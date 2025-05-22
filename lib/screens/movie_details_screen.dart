@@ -35,6 +35,8 @@ class MovieDetailsScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Movie Details"),
+
+        backgroundColor: Colors.teal,
         actions: [
           IconButton(
             icon: Icon(Icons.edit),
