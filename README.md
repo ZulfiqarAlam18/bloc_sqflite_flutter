@@ -1,4 +1,4 @@
-# movie_watchlist_project
+# bloc_sqflite_flutter
 
 A new Flutter project.
 
